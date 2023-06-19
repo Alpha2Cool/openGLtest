@@ -56,6 +56,9 @@ target_link_libraries(a.out
     GL
     GLU
     glut
+    glfw
+    Xrandr
+    GLEW
     # boost_thread
     # boost_system
 )
